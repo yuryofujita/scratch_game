@@ -29,5 +29,5 @@ https://github.com/LLK/
 ![](./img/comment.png)
 
 ## 乱雑になったスクリプトをきれいに整頓する
-自動で並び替えることができる。
+自動で並び替えることができる。  
 ![](./img/seiton.png)
