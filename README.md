@@ -35,3 +35,7 @@ https://github.com/LLK/
 ## ステージの背景塗りつぶし
 線を引いた後、塗りつぶしボタンで塗りつぶし　　
 ![](./img/nuritubushi.png)
+
+## スプライトを削除
+右クリック削除  
+![](./img/spritedelete.png)
