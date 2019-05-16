@@ -7,4 +7,10 @@
 scratch GitHUB  
 https://github.com/LLK/
 
+## 小技集
+### ブロックをクリックするだけでもコスチュームは動く
+コスチュームを選択して、スクリプトのブロックを直接クリックしてもコスチュームは動く
+![](./img/scratch_block.png)
+
+
 
