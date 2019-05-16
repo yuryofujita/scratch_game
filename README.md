@@ -39,3 +39,8 @@ https://github.com/LLK/
 ## スプライトを削除
 右クリック削除  
 ![](./img/spritedelete.png)
+
+## 関数を作る
+スクリプト->その他->ブロックを作る　から関数を作ることができる。  
+![](./img/method.png)
+
